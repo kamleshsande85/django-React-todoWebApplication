@@ -1,6 +1,6 @@
 # Phase 1: Backend Setup (Django + DRF)
 
--Python & Django Install karna
+- Python & Django Install karna
 
 - Django Project aur App banana (todo_app)
 
