@@ -2,14 +2,14 @@
 
 -Python & Django Install karna
 
--Django Project aur App banana (todo_app)
+- Django Project aur App banana (todo_app)
 
--PostgreSQL se connect karna
+- PostgreSQL se connect karna
 
--Model banana (ToDo model)
+- Model banana (ToDo model)
 
--Django Admin setup
+- Django Admin setup
 
--REST API banana (List, Create, Update, Delete)
+- REST API banana (List, Create, Update, Delete)
 
--Testing with Postman
+- Testing with Postman
