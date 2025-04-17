@@ -7,3 +7,5 @@
 - [x] Axios se API calls karna
 
 - [] CRUD operations frontend se
+
+1. 
