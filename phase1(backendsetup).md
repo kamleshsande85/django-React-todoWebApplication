@@ -2,7 +2,7 @@
 
 - [x] Python & Django Install karna
 
-- [] Django Project aur App banana (todo_app)
+- [x] Django Project aur App banana (todo_app)
 
 - [] PostgreSQL se connect karna
 
