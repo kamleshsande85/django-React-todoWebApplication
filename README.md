@@ -100,7 +100,8 @@ django-React-todoWebApplication/
 ## Screenshots
 
 ### Frontend
-![Frontend Screenshot](https://github.com/user-attachments/assets/0198bac6-8b66-[...)
+![Frontend Screenshot]![image](https://github.com/user-attachments/assets/b1cc8fba-a39b-4760-a908-c43964829744)
+
 
 ## Contributing
 
@@ -113,5 +114,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ---
 
 Happy coding!
-```
+
 
